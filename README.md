@@ -33,9 +33,9 @@ TinyWeb is the tiniest native macOS HTTP Request Client, lightweigh and frameles
 <h3 align="middle">As excited as we are?</h3>
 <h4 align="middle">Check out some of our features:</h4>
 
-![Welcome-screen](https://github.com/TablePlus/TinyWeb-issue-tracker/blob/master/Resources/welcome-screen.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TinyWeb-issue-tracker/blob/master/Resources/tinyweb-custom-request.png "Workspace")
-![Dark-Theme-screen](https://github.com/TablePlus/TinyWeb-issue-tracker/blob/master/Resources/app-theme.png "Dark Them screen")
+![Welcome-screen](https://github.com/TablePlus/TinyWeb-issue-tracker/blob/main/Resources/app-theme.png "Welcome screen")
+![Workspace-screen](https://github.com/TablePlus/TinyWeb-issue-tracker/blob/main/Resources/tinyweb-custom-request.png "Workspace")
+![Dark-Theme-screen](https://github.com/TablePlus/TinyWeb-issue-tracker/blob/main/Resources/app-theme.png "Dark Them screen")
 
 <br>
 
